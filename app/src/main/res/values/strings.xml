@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Recycler View With Images</string>
+
+    <string name="wallpaper01">Recycler View With Images</string>
+    <string name="wallpaper02">Recycler View With Images</string>
+    <string name="wallpaper03">Recycler View With Images</string>
+    <string name="wallpaper04">Recycler View With Images</string>
+    <string name="wallpaper05">Recycler View With Images</string>
+    <string name="wallpaper06">Recycler View With Images</string>
+    <string name="wallpaper07">Recycler View With Images</string>
+    <string name="wallpaper08">Recycler View With Images</string>
+    <string name="wallpaper09">Recycler View With Images</string>
+    <string name="wallpaper10">Recycler View With Images</string>
+
+
 </resources>
